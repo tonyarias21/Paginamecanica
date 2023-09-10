@@ -1,0 +1,75 @@
+.titulo {
+  text-align: center;
+  color: black;
+  background-color: aliceblue;
+  margin: 10px;
+  padding: 20px;
+  
+}
+
+li {
+  text-align: center;
+  display: inline;
+}
+.menu {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+
+
+
+footer {
+  text-align: center;
+  color: black;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
+.imagenes {
+  text-align: center;
+  display: flex;
+}
+
+img {
+  width: 350px;
+  height: 250px;
+  border-radius: 10px;
+}
+
+img:hover{
+  width: 450px;
+  height: 350px;
+  border-radius: 40px;
+}
+
+p {
+  text-align: center;
+}
+
+.vym {
+  text-align: center;
+  display: inline-block;
+  color: black;
+  background-color: aliceblue;
+  width: 425px;
+  height: 250px;
+  padding-left: 50px;
+  border-radius: 10px;
+}
+
+.izquierda{
+  height: 150px;
+  width: 250px;
+  float: right;
+}
+
+.trabajo {
+  text-align: center;
+  color: black;
+  background-color: aliceblue;
+}
+
+.edt{
+  height: 100px;
+}
