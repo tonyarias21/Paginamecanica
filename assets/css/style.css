@@ -73,3 +73,8 @@ p {
 .edt{
   height: 100px;
 }
+
+
+.menu:active{
+  color: red;
+}
